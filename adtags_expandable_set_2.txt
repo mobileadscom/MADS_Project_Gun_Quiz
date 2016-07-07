@@ -1,0 +1,75 @@
+<!--
+GUN RIGHTS Quiz A/VA | MW | EXP | SET 2
+Platform: Mobilewalla
+RM Type: NON-MRAID
+Ad Format: Expandable
+-->
+<script type='text/javascript'>
+var rma ={
+'campaignId':'23ccd561c11766e331e1c0d95d98124f',
+'secure':true,
+'cb':'${mw_bid_id}',
+'trackExp':'__MW_CLICK_URL__',
+'customize':{'custTracker':['https://www.cdn.serving1.net/a/analytic.htm?uid=0&isNew={{isNew}}&referredUrl={{referredUrl}}&rmaId={{rmaId}}&domainId=0&pageLoadId={{pageLoadId}}&userId={{userId}}&pubUserId=0&campaignId={{campaignId}}&browser={{browser}}&os={{os}}&domain={{domain}}&callback=trackSuccess&callback=trackSuccess&type={{rmatype}}&tt={{rmatt}}&value={{rmavalue}}','https://trk.mwstats.net/stats/interaction.png?id=${mw_bid_id}&li=${mw_lineitem_id}&t=${mw_timestamp}&cr=${mw_creative_id}&ii={{rmatype}}']},
+'tags':{'dsp':'mobilewalla','exchange':'${mw_exchange_id}','inventory':'{{rmaDomain}}'}
+};
+</script>
+<img src='https://www.cdn.serving1.net/t?i=23ccd561c11766e331e1c0d95d98124f&cb=${mw_bid_id}&dsp=mobilewalla&exchange=${mw_exchange_id}&inventory={{rmaDomain}}&customId=noblock' width='1px' height='1px' style='display:none' onerror="this.src='https://track.richmediaads.com/t?i=23ccd561c11766e331e1c0d95d98124f&cb=${mw_bid_id}&dsp=mobilewalla&exchange=${mw_exchange_id}&inventory={{rmaDomain}}&customId=adblock';document.body.appendChild((new Image(1,1).src='https://trk.mwstats.net/stats/interaction.png?ii=adblock&id=${mw_bid_id}&li=${mw_lineitem_id}&t=${mw_timestamp}&cr=${mw_creative_id}').style.display='none');" /><script type='text/javascript' src='https://cdn.serving1.net/general.js'></script>
+<img src="__MW_IMPRESSION_URL__" width="1px" height="1px" style="display:none" />
+
+<!--
+GUN RIGHTS Quiz A/VA | MA | EXP | SET 2
+Platform: Mobilewalla
+RM Type: MRAID
+Ad Format: Expandable
+-->
+<script type='text/javascript'>
+var rma ={
+'campaignId':'4331a2e72059c86d658aa26a2c7b40da',
+'secure':true,
+'cb':'${mw_bid_id}',
+'trackExp':'__MW_CLICK_URL__',
+'customize':{'iframe':false,'custTracker':['https://www.cdn.serving1.net/a/analytic.htm?uid=0&isNew={{isNew}}&referredUrl={{referredUrl}}&rmaId={{rmaId}}&domainId=0&pageLoadId={{pageLoadId}}&userId={{userId}}&pubUserId=0&campaignId={{campaignId}}&browser={{browser}}&os={{os}}&domain={{domain}}&callback=trackSuccess&callback=trackSuccess&type={{rmatype}}&tt={{rmatt}}&value={{rmavalue}}','https://trk.mwstats.net/stats/interaction.png?id=${mw_bid_id}&li=${mw_lineitem_id}&t=${mw_timestamp}&cr=${mw_creative_id}&ii={{rmatype}}']},
+'tags':{'dsp':'mobilewalla','exchange':'${mw_exchange_id}','inventory':'{{rmaDomain}}'}
+};
+</script>
+<img src='https://www.cdn.serving1.net/t?i=4331a2e72059c86d658aa26a2c7b40da&cb=${mw_bid_id}&dsp=mobilewalla&exchange=${mw_exchange_id}&inventory={{rmaDomain}}&customId=noblock' width='1px' height='1px' style='display:none' onerror="this.src='https://track.richmediaads.com/t?i=4331a2e72059c86d658aa26a2c7b40da&cb=${mw_bid_id}&dsp=mobilewalla&exchange=${mw_exchange_id}&inventory={{rmaDomain}}&customId=adblock';document.body.appendChild((new Image(1,1).src='https://trk.mwstats.net/stats/interaction.png?ii=adblock&id=${mw_bid_id}&li=${mw_lineitem_id}&t=${mw_timestamp}&cr=${mw_creative_id}').style.display='none');" /><script src='mraid.js'></script><script type='text/javascript' src='https://cdn.serving1.net/general.js'></script>
+<img src="__MW_IMPRESSION_URL__" width="1px" height="1px" style="display:none" />
+
+<!--
+GUN RIGHTS Quiz B/VB | MW | EXP | SET 2
+Platform: Mobilewalla
+RM Type: NON-MRAID
+Ad Format: Expandable
+-->
+<script type='text/javascript'>
+var rma ={
+'campaignId':'4d07e06c8c5707fb5135d81af4e834f7',
+'secure':true,
+'cb':'${mw_bid_id}',
+'trackExp':'__MW_CLICK_URL__',
+'customize':{'custTracker':['https://www.cdn.serving1.net/a/analytic.htm?uid=0&isNew={{isNew}}&referredUrl={{referredUrl}}&rmaId={{rmaId}}&domainId=0&pageLoadId={{pageLoadId}}&userId={{userId}}&pubUserId=0&campaignId={{campaignId}}&browser={{browser}}&os={{os}}&domain={{domain}}&callback=trackSuccess&callback=trackSuccess&type={{rmatype}}&tt={{rmatt}}&value={{rmavalue}}','https://trk.mwstats.net/stats/interaction.png?id=${mw_bid_id}&li=${mw_lineitem_id}&t=${mw_timestamp}&cr=${mw_creative_id}&ii={{rmatype}}']},
+'tags':{'dsp':'mobilewalla','exchange':'${mw_exchange_id}','inventory':'{{rmaDomain}}'}
+};
+</script>
+<img src='https://www.cdn.serving1.net/t?i=4d07e06c8c5707fb5135d81af4e834f7&cb=${mw_bid_id}&dsp=mobilewalla&exchange=${mw_exchange_id}&inventory={{rmaDomain}}&customId=noblock' width='1px' height='1px' style='display:none' onerror="this.src='https://track.richmediaads.com/t?i=4d07e06c8c5707fb5135d81af4e834f7&cb=${mw_bid_id}&dsp=mobilewalla&exchange=${mw_exchange_id}&inventory={{rmaDomain}}&customId=adblock';document.body.appendChild((new Image(1,1).src='https://trk.mwstats.net/stats/interaction.png?ii=adblock&id=${mw_bid_id}&li=${mw_lineitem_id}&t=${mw_timestamp}&cr=${mw_creative_id}').style.display='none');" /><script type='text/javascript' src='https://cdn.serving1.net/general.js'></script>
+<img src="__MW_IMPRESSION_URL__" width="1px" height="1px" style="display:none" />
+
+<!--
+GUN RIGHTS Quiz B/VB | MA | EXP | SET 2
+Platform: Mobilewalla
+RM Type: MRAID
+Ad Format: Expandable
+-->
+<script type='text/javascript'>
+var rma ={
+'campaignId':'3f0ffd3575dd2ed167d39e9437bcffc0',
+'secure':true,
+'cb':'${mw_bid_id}',
+'trackExp':'__MW_CLICK_URL__',
+'customize':{'iframe':false,'custTracker':['https://www.cdn.serving1.net/a/analytic.htm?uid=0&isNew={{isNew}}&referredUrl={{referredUrl}}&rmaId={{rmaId}}&domainId=0&pageLoadId={{pageLoadId}}&userId={{userId}}&pubUserId=0&campaignId={{campaignId}}&browser={{browser}}&os={{os}}&domain={{domain}}&callback=trackSuccess&callback=trackSuccess&type={{rmatype}}&tt={{rmatt}}&value={{rmavalue}}','https://trk.mwstats.net/stats/interaction.png?id=${mw_bid_id}&li=${mw_lineitem_id}&t=${mw_timestamp}&cr=${mw_creative_id}&ii={{rmatype}}']},
+'tags':{'dsp':'mobilewalla','exchange':'${mw_exchange_id}','inventory':'{{rmaDomain}}'}
+};
+</script>
+<img src='https://www.cdn.serving1.net/t?i=3f0ffd3575dd2ed167d39e9437bcffc0&cb=${mw_bid_id}&dsp=mobilewalla&exchange=${mw_exchange_id}&inventory={{rmaDomain}}&customId=noblock' width='1px' height='1px' style='display:none' onerror="this.src='https://track.richmediaads.com/t?i=3f0ffd3575dd2ed167d39e9437bcffc0&cb=${mw_bid_id}&dsp=mobilewalla&exchange=${mw_exchange_id}&inventory={{rmaDomain}}&customId=adblock';document.body.appendChild((new Image(1,1).src='https://trk.mwstats.net/stats/interaction.png?ii=adblock&id=${mw_bid_id}&li=${mw_lineitem_id}&t=${mw_timestamp}&cr=${mw_creative_id}').style.display='none');" /><script src='mraid.js'></script><script type='text/javascript' src='https://cdn.serving1.net/general.js'></script>
+<img src="__MW_IMPRESSION_URL__" width="1px" height="1px" style="display:none" />
